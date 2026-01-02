@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+.box {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: radial-gradient(farthest-corner at 5% 55%, red, blue);
+    font-family: Arial;
+    font-weight: 500;
+    color: white;
+
+    display: flex;              /* Make the box itself a flex container */
+    justify-content: center;    /* Horizontal center */
+    align-items: center;        /* Vertical center */
+}
+
+.div-text-1 {
+    margin: 0;
+    font-size: 60px;
+    font-weight: 700;
+
+    background: radial-gradient(farthest-corner at 5% 55%, orange, yellow);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div class="box">
+    <p class="div-text-1">APPLE</p>
+</div>
+
+</body>
+</html>
