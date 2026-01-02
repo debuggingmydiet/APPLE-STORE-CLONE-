@@ -31,5 +31,5 @@ This project was an early learning step — feedback and suggestions are welcome
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** *add your link here*  
+- **LinkedIn:** https://www.linkedin.com/in/aditya-bainsla-55992a29a/
 - **GitHub:** https://github.com/debuggingmydiet
